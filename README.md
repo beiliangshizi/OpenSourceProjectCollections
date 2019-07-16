@@ -28,4 +28,3 @@
 - **[-python-BAT-](https://github.com/yoghurtjia/-python-BAT-)**：针对常见的BAT公司中的大数据面试和笔试问题，列出解决思路，并使用python来实现；
 - **[LianJiaSpider](https://github.com/lanbing510/LianJiaSpider)**：链家爬虫；
 - **[words_image](https://github.com/flingjie/words_image)**：生成词云图；
-- 
