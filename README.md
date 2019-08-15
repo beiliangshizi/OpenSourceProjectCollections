@@ -28,3 +28,6 @@
 - **[-python-BAT-](https://github.com/yoghurtjia/-python-BAT-)**：针对常见的BAT公司中的大数据面试和笔试问题，列出解决思路，并使用python来实现；
 - **[LianJiaSpider](https://github.com/lanbing510/LianJiaSpider)**：链家爬虫；
 - **[words_image](https://github.com/flingjie/words_image)**：生成词云图；
+- **[HFish](https://github.com/hacklcx/HFish)**：扩展企业安全测试[主动诱导型开源蜜罐框架系统](https://hfish.io)，记录黑客攻击手段；
+- **[TopList](https://github.com/timeromantic/TopList)**：今日热榜，一个获取各大热门网站热门头条的[聚合网站](https://www.printf520.com/hot.html)，使用Go语言编写，多协程异步快速抓取信息；
+- **[gpmall](https://github.com/2227324689/gpmall)**：【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka；
