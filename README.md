@@ -31,3 +31,6 @@
 - **[HFish](https://github.com/hacklcx/HFish)**：扩展企业安全测试[主动诱导型开源蜜罐框架系统](https://hfish.io)，记录黑客攻击手段；
 - **[TopList](https://github.com/timeromantic/TopList)**：今日热榜，一个获取各大热门网站热门头条的[聚合网站](https://www.printf520.com/hot.html)，使用Go语言编写，多协程异步快速抓取信息；
 - **[gpmall](https://github.com/2227324689/gpmall)**：【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka；
+- **[xunfeng](https://github.com/ysrc/xunfeng)**：巡风是一款适用于企业内网的漏洞快速应急，巡航扫描系统；
+- **[wukong-robot](https://github.com/wzpan/wukong-robot)**：一个简单、灵活、优雅的[中文语音对话机器人/智能音箱项目](https://wukong.hahack.com/)；
+- **[rasa](https://github.com/RasaHQ/rasa)**：Open source [machine learning framework ](https://rasa.com/docs/)to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants；
