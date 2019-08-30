@@ -34,4 +34,6 @@
 - **[xunfeng](https://github.com/ysrc/xunfeng)**：巡风是一款适用于企业内网的漏洞快速应急，巡航扫描系统；
 - **[wukong-robot](https://github.com/wzpan/wukong-robot)**：一个简单、灵活、优雅的[中文语音对话机器人/智能音箱项目](https://wukong.hahack.com/)；
 - **[rasa](https://github.com/RasaHQ/rasa)**：Open source [machine learning framework ](https://rasa.com/docs/)to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants；
-- [MikuTools](https://github.com/Ice-Hazymoon/MikuTools)：一个轻量的[工具集合](http://tools.imiku.me)；
+- **[MikuTools](https://github.com/Ice-Hazymoon/MikuTools)**：一个轻量的[工具集合](http://tools.imiku.me)；
+- **[hope-boot](https://github.com/hope-for/hope-boot)**：一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有beers整合Springboot2，单点登陆+tk.mybatis+shiro+redis+thymeleaf+maven+swagger前后端分离接口管理+代码生成+定时任务+数据库版本管理flyway+hutool工具包，等实用技术；
+
